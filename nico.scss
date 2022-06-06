@@ -167,7 +167,6 @@ $colors: $basecolor, lighten($basecolor,2%), lighten($basecolor,5%), lighten($ba
             margin-top: 2em;
             margin-bottom: 20px;
             color: nth($colors, $index);
-            text-shadow: 0 5px 5px #e1fffd ,0 3px 10px #fcfef3 ;
             > code {
                 font-size: $size;
             }
